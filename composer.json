@@ -1,13 +1,12 @@
 {
-    "name": "kreivatech/laravel-moodle",
+    "name": "miguelmeneses79/laravel-moodle",
     "description": "Laravel Moodle client",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
         {
             "name": "Miguel Meneses",
-            "email": "miguel.meneses@wearekfactor.com",
-            "homepage": "http://aireset.com.br"
+            "email": "miguel.meneses@wearekfactor.com"
         }
     ],
     "prefer-stable": true,
