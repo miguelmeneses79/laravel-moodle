@@ -5,14 +5,14 @@
     "version": "1.0.0",
     "authors": [
         {
-            "name": "Felipe ALmeman",
-            "email": "felipe@airese.com.br",
+            "name": "Miguel Meneses",
+            "email": "miguel.meneses@wearekfactor.com",
             "homepage": "http://aireset.com.br"
         }
     ],
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
+        "php": ">=8.1",
         "guzzlehttp/guzzle": "^7.0.1",
         "beberlei/assert": "^3.1"
     },
