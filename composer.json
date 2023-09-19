@@ -21,18 +21,18 @@
     "extra": {
         "laravel": {
             "providers": [
-                "kreivatech\\LaravelMoodle\\LaravelMoodleServiceProvider"
+                "miguelmeneses79\\LaravelMoodle\\LaravelMoodleServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "kreivatech\\LaravelMoodle\\": "src/"
+            "miguelmeneses79\\LaravelMoodle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kreivatech\\LaravelMoodle\\Tests\\": "tests/"
+            "miguelmeneses79\\LaravelMoodle\\Tests\\": "tests/"
         }
     }
 }
