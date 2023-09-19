@@ -21,18 +21,18 @@
     "extra": {
         "laravel": {
             "providers": [
-                "miguelmeneses79\\LaravelMoodle\\LaravelMoodleServiceProvider"
+                "miguelmeneses79\\laravel-moodle\\LaravelMoodleServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "miguelmeneses79\\LaravelMoodle\\": "src/"
+            "miguelmeneses79\\laravel-moodle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "miguelmeneses79\\LaravelMoodle\\Tests\\": "tests/"
+            "miguelmeneses79\\laravel-moodle\\Tests\\": "tests/"
         }
     }
 }
